@@ -3,6 +3,10 @@
 
 This project is a simple IMDb Clone web application built using HTML, CSS, and JavaScript. It allows users to search for movies, view movie details, and add movies to their favorites list.
 
+## Hosted Link
+
+- https://shashank4891.github.io/debugdeployment_imbd_clone/
+
 ## Features
 
 - **Search Movies**: Users can search for movies by typing in the movie name in the search bar. The application fetches movie data from the OMDB API.
@@ -17,7 +21,7 @@ This project is a simple IMDb Clone web application built using HTML, CSS, and J
 
 1. Clone the repository to your local machine:
 
-- git clone
+- git clone: https://github.com/shashank4891/debugdeployment_imbd_clone/
 
 
 2. Open the `index.html` file in your web browser to access the IMDb Clone web application.
